@@ -1,0 +1,15 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Tijmen/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/ALU.v,1617666881,verilog,,C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/DataMem.v,,ALU,,,,,,,,
+C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/DataMem.v,1618257480,verilog,,C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/Instruction_memory.v,,DataMem,,,,,,,,
+C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/Instruction_memory.v,1618258207,verilog,,C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/PC.v,,Instruction_memory,,,,,,,,
+C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/PC.v,1617663025,verilog,,C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/Reg_file.v,,PC,,,,,,,,
+C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/Reg_file.v,1618191456,verilog,,C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/control.v,,Reg_file,,,,,,,,
+C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/control.v,1617670969,verilog,,C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/mux.v,,control,,,,,,,,
+C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/mux.v,1617670095,verilog,,C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/pc_adder.v,,mux,,,,,,,,
+C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/pc_adder.v,1617662958,verilog,,C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/sign_extend.v,,pc_adder,,,,,,,,
+C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/sign_extend.v,1617668898,verilog,,C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/testbench.v,,sign_extend,,,,,,,,
+C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/testbench.v,1618258312,verilog,,,,testbench,,,,,,,,

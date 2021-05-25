@@ -1,0 +1,14 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+input_address(00000000) = output_address(00000001) instruction(10000010)
+input_address(00000001) = output_address(00000010) instruction(10000010)
+input_address(00000010) = output_address(00000011) instruction(10011010)
+input_address(00000011) = output_address(00000100) instruction(01110000)
+input_address(00000100) = output_address(00000101) instruction(00101000)
+input_address(00000101) = output_address(00000110) instruction(10000110)
+input_address(00000110) = output_address(00000111) instruction(00001000)
+input_address(00000111) = output_address(00001000) instruction(10101000)
+input_address(00001000) = output_address(00010000) instruction(01010000)
+input_address(00010000) = output_address(00010001) instruction(10011101)
+input_address(00010001) = output_address(00010010) instruction(00001011)
+$stop called at time : 22 ns : File "C:/Users/Tijmen/project_1/project_1.srcs/sources_1/new/testbench.v" Line 79
